@@ -16,7 +16,7 @@ Android screen share to pc browser over WiFi, with WebSocket.
 
 # Screenshot
 
-## APP
+## App
 
 <img src="/pictures/app_1.png" height = "600" alt="app1"/>
 

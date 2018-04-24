@@ -14,7 +14,7 @@
 
 # 截图
 
-## APP
+## App
 
 <img src="/pictures/chs/app_1.png" height = "600" alt="app1"/>
 
